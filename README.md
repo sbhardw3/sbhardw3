@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Shiven Bhardwaj a junior at the University of North Carolina - Charlotte, looking for internship in software engeering and technology field. Currenlty working as a Desktop Technician at Office of ONEIT. Team player with strong communication skills. Experience with languages like C++, JAVA, Python. Worked in SSH based system and various othe IDEs.
+An Independent, self-motivated individual keen interest in technology and software. Proficient in problem solving and solving code problems. Developed a good foundation in software engineering principles and practices.
 <!--
 **sbhardw3/sbhardw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
