@@ -1,5 +1,8 @@
 ### Hi there 👋 
-An Independent, self-motivated individual keen interest in technology and software. Proficient in problem solving and solving code problems. Developed a good foundation in software engineering principles and practices.
+I am Shiven 
+An Independent, self-motivated individual keen interest in technology and software. Proficient in problem solving and solving code problems. Developed a good foundation in software engineering principles and practices. 
+
+Hope you guys doing well
 <!--
 **sbhardw3/sbhardw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
