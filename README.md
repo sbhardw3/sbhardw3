@@ -1,19 +1,53 @@
-### Hi there 👋 
-I am Shiven 
-An Independent, self-motivated individual keen interest in technology and software. Proficient in problem solving and solving code problems. Developed a good foundation in software engineering principles and practices. 
+### Hi, I'm Shiven 👋
 
-Hope you guys doing well
-<!--
-**sbhardw3/sbhardw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building real-world full stack applications.
 
-Here are some ideas to get you started:
+I recently graduated (Dec 2025) with a B.S. in Computer Science from UNC Charlotte, and I’m currently working on projects that involve backend systems, APIs, and integrations with external platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I’m Doing
+- Building full stack applications using **Flask, React, and SQLAlchemy**
+- Working with **APIs, OAuth flows, and data processing**
+- Learning how to design **scalable and production-ready systems**
+- Preparing for **Software Engineer roles (Backend / Full Stack)**
+
+---
+
+### 🧠 Projects
+- **SneakerBox**  
+  Full stack sneaker marketplace platform with authentication, listings, and transaction flow.
+
+- **Spotify Automation**  
+  Transfers YouTube playlists to Spotify using APIs, OAuth, and fuzzy matching for track mapping.
+
+- **NinerMine**  
+  Full stack e-commerce platform built for UNC Charlotte students to buy and sell products, with user authentication, product listings, and cart functionality.
+
+- *(Next)* AI Job Application Copilot  
+  LLM-powered tool to help automate and optimize job applications.
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** Python, JavaScript  
+- **Backend:** Flask, REST APIs  
+- **Frontend:** React  
+- **Database:** PostgreSQL, SQLite  
+- **Tools:** Git, Docker (learning), APIs, OAuth  
+
+---
+
+### 📌 What I’m Looking For
+I’m looking for **entry-level Software Engineer roles** where I can:
+- Work on real systems (not just tutorials)
+- Learn from experienced engineers
+- Contribute to meaningful products
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: [Add Link]
+- GitHub: https://github.com/sbhardw3
+
+---
