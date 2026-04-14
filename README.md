@@ -47,7 +47,7 @@ I’m looking for **entry-level Software Engineer roles** where I can:
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: [Add Link]
+- LinkedIn: https://www.linkedin.com/in/shiven-bhardwaj-30b004230/
 - GitHub: https://github.com/sbhardw3
 
 ---
